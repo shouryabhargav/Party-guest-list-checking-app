@@ -1,0 +1,26 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#sort_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
+#guest_list
+{
+    padding: 10px;
+    width: 50%;
+}
+
+#row2
+{
+    padding: 10px;
+    width: 50%;
+}
